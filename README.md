@@ -115,8 +115,6 @@ I have demonstrated **cross-platform cooperative gameplay between Pico 4 (standa
 
 This is still **experimental multiplayer functionality**. I am working on stability and compatibility before treating it as a finished public feature. Details such as public client distribution, supported player counts, connection instructions, and compatibility with unmodified Steam executables will be documented when they are ready.
 
-**A Windows flat-screen client is not the same thing as a completed Windows PCVR / SteamVR port.**
-
 ## Development status
 
 **As of 17 October 2026:**
@@ -147,19 +145,6 @@ You need the original game data from a legitimate copy of:
 **I do not distribute the original commercial game assets.** This project targets the classic game data, not the HD remakes.
 
 For the older flat-screen Android version, visit [Serious Sam Android Edition](https://github.com/Skyrimus/Serious-Sam-Android).
-
-## What's next
-
-I am currently focusing on:
-
-- Improving performance and stability across Pico and Meta Quest devices.
-- Refining VR controls, interactions, and compatibility with both classic campaigns.
-- Expanding testing and improving stability of cross-platform multiplayer.
-- Improving compatibility with classic custom maps and selected community mods.
-- Evaluating additional platforms, including potential PCVR support.
-- Preparing clear build and installation documentation as releases become available.
-
-These are development priorities, **not promised release dates or a fixed feature schedule**.
 
 ## Credits and acknowledgements
 
