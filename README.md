@@ -1,5 +1,5 @@
 # Serious Sam Classic VR - Work in progress
-[![Support](https://img.shields.io/badge/Support-Donate-2ea44f?style=flat)](https://skyrimus.ru/donate/)
+[![Support](https://img.shields.io/badge/Support-Donate-2ea44f?style=flat)](https://boosty.to/skyrimus)
 [![Boosty](https://img.shields.io/badge/Boosty-Devlogs-F15F2C?style=flat)](https://boosty.to/skyrimus)
 [![Telegram](https://img.shields.io/badge/Telegram-News-26A5E4?style=flat)](https://t.me/serious_sam_classic_vr)
 [![YouTube](https://img.shields.io/badge/YouTube-Videos-FF0000?style=flat)](https://www.youtube.com/@Skyrimus)
