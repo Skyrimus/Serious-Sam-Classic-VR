@@ -54,7 +54,7 @@ Here is where development and testing currently stand. **A platform appearing in
 | **Meta Quest 3 - standalone VR** | ✅ Supported, tested |
 | **Meta Quest 3S - standalone VR** | ✅ Supported, tested |
 | **Android phones - flat-screen** | ✅ Supported, tested |
-| **Windows - flat-screen** | ✅ Supported, tested via Pico 4 and Windows flat build |
+| **Windows - flat-screen** | ✅ Supported, tested |
 | **Windows PCVR / SteamVR** | ✅ Supported, tested on Windows SteamVR |
 
 The Android phone port has its own [repository and installation instructions](https://github.com/Skyrimus/Serious-Sam-Android). Please do not assume that the old Android APK or its file paths are interchangeable with the current VR build.
