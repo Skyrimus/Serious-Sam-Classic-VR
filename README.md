@@ -96,7 +96,7 @@ Running Serious Sam's large encounters at VR frame rates on standalone hardware 
 Key areas of work include:
 
 - **OpenXR stereo rendering and Multiview**, reducing repeated rendering work between the two eyes.
-- A modernized **OpenGL ES** rendering path for Android VR.
+- A modernized **Vulkan** rendering path for Android VR and flat builds.
 - **GPU particles and fog**, as well as instancing and batching for repeated effects and objects.
 - **Mesh instancing** for repeated geometry and selected enemy models.
 - **Occlusion-related optimizations** and improvements to lens flares, lighting, shadows, and color reproduction.
